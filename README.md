@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agopa
 - 👀 I’m interested in code testing
 - 🌱 I’m currently learning git bush
-- 💞️ I’m looking to collaborate on with team
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with hardwork
 
 <!---
